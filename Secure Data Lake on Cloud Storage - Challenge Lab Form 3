@@ -1,0 +1,16 @@
+Form 3
+
+✅ Tasks:
+
+🧠 Create a BigQuery dataset
+🌊 Add a zone to your lake
+🔗 Attach an existing BigQuery Dataset to the Lake
+🏷️ Create a tag template (BigQuery Dataset)
+
+
+Solution: 
+
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/%5BForm%203%5D%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20-%20Challenge%20Lab/arcadecrew.sh
+sudo chmod +x arcadecrew.sh
+./arcadecrew.sh
+
