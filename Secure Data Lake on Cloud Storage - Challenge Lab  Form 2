@@ -1,0 +1,16 @@
+Form 2 Solution 
+
+✅ Tasks:
+
+🌊 Create a lake in Dataplex and add a zone to your lake
+📘 Create an entry group
+🔗 Attach an existing Cloud Storage bucket to the zone
+🏷️ Create a tag template (Storage bucket)
+
+
+Solution: 
+
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/%5BForm%202%5D%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20-%20Challenge%20Lab/arcadecrew.sh
+sudo chmod +x arcadecrew.sh
+./arcadecrew.sh
+
