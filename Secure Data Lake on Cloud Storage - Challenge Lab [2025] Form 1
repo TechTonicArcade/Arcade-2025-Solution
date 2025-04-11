@@ -9,19 +9,11 @@ Form 1
 
 
 Solution: 
+⚙️ Lab Environment Setup
 
-## ⚙️ Lab Environment Setup
-
-<div style="padding: 15px; margin: 10px 0;">
-<p><strong>☁️ Run in Cloud Shell:</strong></p>
-
-```bash
 curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/%5BForm%201%5D%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20-%20Challenge%20Lab/arcadecrew.sh
 sudo chmod +x arcadecrew.sh
 ./arcadecrew.sh
-```
-</div>
 
----
 
-## 🎉 **Congratulations! Lab Completed Successfully!** 🏆  
+🎉 Congratulations! Lab Completed Successfully!🏆  
