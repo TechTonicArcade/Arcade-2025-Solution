@@ -1,0 +1,17 @@
+Form 4
+
+✅ Tasks:
+
+🌊 Create a lake in Dataplex and add a zone to your lake
+🔗 Attach an existing Cloud Storage bucket to the zone
+🔗 Attach an existing BigQuery Dataset to the Lake
+📍 Create Entities
+
+
+
+Solution: 
+
+curl -LO raw.githubusercontent.com/ArcadeCrew/Google-Cloud-Labs/refs/heads/main/%5BForm%204%5D%20Secure%20Data%20Lake%20on%20Cloud%20Storage%20-%20Challenge%20Lab/arcadecrew.sh
+sudo chmod +x arcadecrew.sh
+./arcadecrew.sh
+
